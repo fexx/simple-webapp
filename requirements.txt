@@ -1,2 +1,4 @@
 Flask
 MySQL
+mysqlclient
+MySQL-python
