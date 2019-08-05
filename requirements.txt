@@ -1,2 +1,6 @@
-flask
+Flask
+MySQL-python
 pymysql
+Flask-SQLAlchemy
+SQLAlchemy
+mysql-connector-python
