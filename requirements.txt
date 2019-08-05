@@ -1,7 +1,2 @@
-Flask
-MySQL
-mysqlclient
-MySQL-python
-Flask-Admin
-Flask-SQLAlchemy
-flask-mysql
+flask
+pymysql
